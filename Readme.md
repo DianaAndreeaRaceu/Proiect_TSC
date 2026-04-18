@@ -296,7 +296,7 @@ Modificari facute dupa review:
 
 ## Manufacturing Outputs
 
-Repository-ul include <img width="1024" height="624" alt="Captură de ecran din 2026-04-18 la 20 21 12" src="https://github.com/user-attachments/assets/b6b02721-9697-4aae-825f-35f4814cf29d" />
+Repository-ul include 
 :
 - gerbers.zip
 - bom.csv
